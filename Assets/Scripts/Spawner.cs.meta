@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 450e242ce3e1ee04cbfb1b60593fe335
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - BirdScript: {instanceID: 0}
+  - Dubalar: {fileID: 6958322920603981729, guid: 69a50414011cc8648a1e8c580457960c, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
